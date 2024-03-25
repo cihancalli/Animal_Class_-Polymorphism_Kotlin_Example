@@ -1,4 +1,4 @@
-# Animal_Class_-Polymorphism_Kotlin_Example
+# Animal_Class_Polymorphism_Kotlin_Example
 
 ## Kotlin Uygulamasında Polymorphism Kullanarak Bir Sınıf Örneği Oluşturma
 
